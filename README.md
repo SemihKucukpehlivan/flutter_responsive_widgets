@@ -1,6 +1,6 @@
 # Flutter Responsive Widget Örnekleri
 
-Bu depo, **Flutter**'ın yerleşik (ekstra paket gerektirmeyen) duyarlı tasarım widget'larının nasıl kullanıldığını gösteren bir örnek uygulamadır.  
+**Flutter**'ın yerleşik (ekstra paket gerektirmeyen) duyarlı tasarım widget'larının nasıl kullanıldığını gösteren bir örnek uygulamadır.  
 Uygulama, farklı ekran boyutlarına ve cihaz yönlendirmelerine (dikey/yatay) nasıl adapte olunacağını öğrenmek isteyen Flutter geliştiricileri için pratik örnekler sunar.
 
 ---
