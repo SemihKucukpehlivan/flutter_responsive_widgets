@@ -40,7 +40,8 @@ In Flutter, **responsive widgets** allow your app to adapt to different screen s
 
 This application includes examples of Flutter’s **built-in (package-free)** responsive widgets. Each example comes with a description and can be extended with your own screenshots after running the app.
 
----
+<img src="https://github.com/user-attachments/assets/5702d8f5-3cdf-4444-84a6-3b6492284db5" alt="Portrait Screenshot" style="width:25%; height:auto;" />
+
 
 ### 1. MediaQuery
 
